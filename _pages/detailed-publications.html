@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Publications"
+permalink: /detailed-publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+
+
+<div class="publications-list">
+    {% for publication in site.publications %}
+    <div class="publication-card">
+        <img src="{{ publication.image }}" alt="Figure for {{ publication.title }}" class="publication-image">
+        <div class="publication-content">
+            <h3 class="publication-title">
+                <a href="{{ publication.url }}">{{ publication.title }}</a>
+            </h3>
+            <p class="publication-authors">{{ publication.authors }}</p>
+            <p class="publication-abstract">{{ publication.abstract }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>

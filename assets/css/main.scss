@@ -39,3 +39,56 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.sidebar-image {
+    width: 150px; /* Adjust the size to fit your sidebar */
+    height: 150px; /* Ensure it matches the width for a perfect circle */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image scales properly inside the circle */
+    border: 2px solid #fff; /* Optional: Adds a border around the image */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+}
+
+.publications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Spacing between cards */
+    margin: 20px 0;
+}
+
+.publication-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px; /* Spacing between image and content */
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.publication-image {
+    width: 120px; /* Set a fixed size for the images */
+    height: 120px;
+    object-fit: cover; /* Ensures the image scales and crops appropriately */
+    border-radius: 5px;
+}
+
+.publication-content {
+    flex-grow: 1; /* Ensures the text fills available space */
+}
+
+.publication-title {
+    margin: 0 0 5px;
+    font-size: 1.2em;
+}
+
+.publication-authors {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.publication-abstract {
+    margin-top: 10px;
+    font-size: 0.95em;
+    line-height: 1.5;
+}
