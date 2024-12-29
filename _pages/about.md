@@ -32,3 +32,7 @@ How did complex mathematical ability arise from millions of years of evolution? 
 # APPLICATIONS 
 
 I believe (and hope) that the fruits of my research will empower us to discover newer frontiers of science, empower mathematicians with the ability to ask and answer deeper questions, boost productivity of scientists, and help humanity towards solving some of the hardest problems. 
+
+# PORTFOLIO
+
+My projects are listed [here](/portfolio/). Some of these projects are no longer maintained, but I am happy to entertain any questions or comments. 
