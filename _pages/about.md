@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student at UT Austin, working in the **Trustworthy and Intelligent Systems Lab** (Trishul) under Swarat Chaudhuri. I am interested in developing intelligent systems for mathematics and other scientific domains. Previously I have worked on number theory, quadratic forms, and single-cell computational genomics.
+I am first year PhD student at UT Austin, working in the **Trustworthy and Intelligent Systems Lab** (Trishul) under Swarat Chaudhuri. I am interested in developing intelligent systems for mathematics and other scientific domains. Previously I have worked on number theory of quadratic forms, and single-cell computational genomics.
 
 # NEWS 
 * My advisor Swarat Chaudhuri and collaborators just released a position paper - [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075).
