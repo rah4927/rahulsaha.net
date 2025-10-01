@@ -1,0 +1,7 @@
+/* prevent avatar overlap */
+.author__avatar { position: static !important; float: none !important; }
+.author__avatar img {
+  position: static !important; float: none !important; z-index: auto !important;
+  display: block; max-width: 160px; height: auto; border-radius: 50%;
+  margin: 0 1rem 1rem 0;
+}
