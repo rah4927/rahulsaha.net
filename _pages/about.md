@@ -9,11 +9,11 @@ redirect_from:
 
 I am a PhD student at UT Austin, working in the **Trustworthy and Intelligent Systems Lab** (Trishul) under Swarat Chaudhuri. I am interested in developing intelligent systems for mathematics and other scientific domains. Previously I have worked on number theory of quadratic forms, and single-cell computational genomics.
 
-If you are interested in chatting about the use of AI in mathematical and scientific systems, shoot me an email. 
+Currently, I am interested in understanding how AI can integrate well into real workflows of mathematicians and scientists. Recently, we published our work on improving the best known upper bound on the Grothendieck constant (see [here](https://arxiv.org/abs/2606.03991)). This endeavor was made possible through collaboration between mathematicians and AI systems. I feel hopeful that scientific advances will be made possible in the near future through proper deployment of these tools when useful. If you are interested in my thoughts on AI for discovery, please reach out!
 
 # NEWS 
 * Our paper on improving the upper bound on the Grothendieck constant via AI guided search is now out. This improves upon the previous best known explicit bound from 1979. Read the paper [here](https://arxiv.org/abs/2606.03991). 
-* Our paper on automatic theory discovery won Spotlight paper at NeurIPS 2025. This work introduces an RL environment that models theory discovery, and explores the problem of learning interestingness. Read the paper [here](https://arxiv.org/abs/2511.14778.
+* Our paper on automatic theory discovery won Spotlight paper at NeurIPS 2025. This work introduces an RL environment that models theory discovery, and explores the problem of learning interestingness. Read the paper [here](https://arxiv.org/abs/2511.14778).
 
 # PAPERS
 Find more info on these papers as well as other publications [here](/publications/).
