@@ -17,7 +17,7 @@ If you are interested in chatting about the use of AI in mathematical and scient
 
 # PAPERS
 Find more info on these papers as well as other publications [here](/publications/).
-1. [_The Grothendieck Constant is Less Than [NUMBER]_](https://arxiv.org/abs/2606.03991), Alan Li, **Rahul Saha**, Anton Xue, Swarat Chaudhuri, Adam Klivans, Pravesh K Kothari, Raghu Meka
+1. [_The Grothendieck Constant is Less Than $$\frac{\pi}{2 \log(1 + \sqrt{2})} - 10^{-5}$$_](https://arxiv.org/abs/2606.03991), Alan Li, **Rahul Saha**, Anton Xue, Swarat Chaudhuri, Adam Klivans, Pravesh K Kothari, Raghu Meka
 2. [Learning Interestingness in Automated Mathematical Theory Formation](https://arxiv.org/abs/2511.14778), George Tsoukalas, **Rahul Saha**, Amitayush Thakur, Sabrina Reguyal, Swarat Chaudhuri
 3. [_On three-term linear relations of theta series of positive-definite binary quadratic forms_](https://arxiv.org/abs/2307.00747), **Rahul Saha**, Jonathan Hanke 
 4. [_LLMSTEP: LLM Proofstep Suggestions in Lean_](https://arxiv.org/abs/2310.18457) (NeurIPS 2023 Math AI ), Sean Welleck, **Rahul Saha**
