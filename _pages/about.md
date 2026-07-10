@@ -13,7 +13,7 @@ Currently, I am interested in understanding how AI can integrate well into real 
 
 # NEWS 
 * Our paper on improving the upper bound on the Grothendieck constant via AI guided search is now out. This improves upon the previous best known explicit bound from 1979. Read the paper [here](https://arxiv.org/abs/2606.03991). 
-* Our paper on automatic theory discovery won Spotlight paper at NeurIPS 2025. This work introduces an RL environment that models theory discovery, and explores the problem of learning interestingness. Read the paper [here](https://arxiv.org/abs/2511.14778).
+* Our paper on automatic theory discovery received Spotlight at NeurIPS 2025. This work introduces an RL environment that models theory discovery, and explores the problem of learning interestingness. Read the paper [here](https://arxiv.org/abs/2511.14778).
 
 # PAPERS
 Find more info on these papers as well as other publications [here](/publications/).
