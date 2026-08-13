@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 <div class="publications-list">
-  {% for publication in site.publications %}
+  {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+  {% for publication in sorted_publications %}
   <div class="publication-card">
       <img src="{{ publication.image }}" alt="Figure for {{ publication.title }}" class="publication-image">
       <div class="publication-content">

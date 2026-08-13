@@ -10,8 +10,12 @@ tags:
 
 I'm excited to share two new papers on arXiv that present breakthrough results on the Grothendieck constant through human-AI mathematical collaboration.
 
-The first paper, [**New Lower and Upper Bounds for the Grothendieck Constant**](https://arxiv.org/abs/2608.11158), establishes improved bounds for this fundamental constant in functional analysis. We tightened the best known bounds to $6\pi/11 \leq K_G \leq \pi/(2\log(1+\sqrt{2})) - 10^{-4}$, representing significant progress on this long-standing open problem.
+The first paper, [**New Lower and Upper Bounds for the Grothendieck Constant**](https://arxiv.org/abs/2608.11158), tightens the best known bounds on $K_G$ to
 
-The second paper, [**Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration**](https://arxiv.org/abs/2608.11195), provides an in-depth case study of the AI research system that made these results possible. This work demonstrates how AI can generate novel insights in theoretical mathematics and offers important lessons for the future of human-AI collaboration in research.
+$$\frac{6\pi}{11} \leq K_G \leq \frac{\pi}{2 \log(1 + \sqrt{2})} - 10^{-4},$$
 
-These papers are deeply intertwined—one presents the mathematical results, while the other explores the methodology and collaboration that enabled them.
+which together pin down the previously unknown tenths digit of $K_G$ to be 7. The lower bound comes from establishing limitations on asymptotically optimal Krivine schemes rather than constructing explicit gap instances, and the upper bound from the first asymptotic construction of rounding schemes, where previous work considered only low-dimensional schemes.
+
+The second paper, [**Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human–AI Mathematical Collaboration**](https://arxiv.org/abs/2608.11195), is a detailed account of how we actually got there. It describes the long-horizon AI research system we engineered, where it was strong and where it was weak, and what conditions made it possible for the system to arrive at insights that domain experts considered novel.
+
+The two papers are companions: one presents and proves the mathematical results, the other documents the human–AI research process behind them.
