@@ -31,11 +31,11 @@ Find more info on these papers as well as other publications [here](/publication
 
 # RESEARCH INTERESTS
 
-How did complex mathematical ability arise from millions of years of evolution? How are humans capable of discovering relativity, or proving the 290 theorem? From both cognitive and mathematical perspectives, this is a very compelling question to me. For my doctoral research, I want to study this problem from the angle of automatic theorem proving, discovery, and program synthesis.
+How did complex mathematical ability arise from millions of years of evolution? How are humans capable of discovering relativity, or proving the 290 theorem? From both cognitive and mathematical perspectives, this is a very compelling question to me. For my doctoral research, I want to study this problem from the angle of automatic theorem proving, discovery, and the design of AI tools that mathematicians can actually use.
 
-- **Automatic Theorem Proving**. How do we train agents to rigorously prove mathematical statements? Most popular methods currently involve guided tree search with signals from an LLM, but there are many unanswered questions on sample complexity, synthetic data generation, and scaling laws.  
+- **Automatic Theorem Proving**. How do we train agents to rigorously prove mathematical statements? The stepwise tactic prediction and tree search that defined this area a few years ago has largely given way to models that reason at length and emit whole proofs, trained with reinforcement learning against a proof checker. That shift moved the hard questions rather than settling them: formal corpora are still small relative to what training wants, credit assignment over a long proof attempt is still crude, and the strongest natural-language reasoning is still only loosely connected to anything a verifier will accept.  
 - **Automatic Discovery**. How do humans come up with newer concepts in mathematics and science? This is a generative AI problem but the twist is that the space is highly discrete. 
-- **Program Synthesis**. How can one build reliable, safe, and formally verifiable programs at scale? LLMs are expensive and not reliable when codebases scale up to tens of thousands of lines of code. Tackling this will require coming up with newer algorithms. 
+- **AI for Long-Horizon Research**. Real research problems are open-ended and unfold over weeks or months, not over a single query. What has to be true of an AI system before it can make progress on that timescale — carrying context across a long effort, recognizing which of its own directions are worth continuing, and knowing when to hand the problem back to a human? Our work on the Grothendieck constant was an attempt to find out by actually running such a system on an open problem. 
 
 # APPLICATIONS 
 
